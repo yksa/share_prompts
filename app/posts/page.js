@@ -1,3 +1,5 @@
+// http://localhost:3000/posts
+
 import React from "react";
 
 const page = () => {
